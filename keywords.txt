@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For [nome da biblioteca]
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+
+ParallelLoop	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+resetTime	KEYWORD2
+timeRunning	KEYWORD2
+cycleLevel	KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
+
+
