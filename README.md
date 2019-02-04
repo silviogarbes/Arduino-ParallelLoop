@@ -1,4 +1,4 @@
-= ParallelLoop Library for Arduino =
+#ParallelLoop Library for Arduino
 
 This library causes Pseudo-thread to be created to simulate parallel processes. In a simplified way one can work with predetermined cycles of execution or manipulate the time of cycles at runtime.
 
@@ -44,7 +44,7 @@ Examples:
 For more information about this library please visit us at
 https://github.com/silviogarbes/Arduino-ParallelLoop
 
-== License ==
+#License
 
 Copyright (c) 2010 Arduino LLC. All right reserved.
 
